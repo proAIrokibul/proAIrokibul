@@ -1,4 +1,3 @@
-## Hi 👋 I'm Rokibul Hasan 
 
 <h1 align="center" Hi 👋 I'm Rokibul Hasan </h1>
 <h3 align="center">AI & ML Developer | Dedicated to ethical AI | Bridging the gap between technology and humanity | Crafting responsible and impactful machine learning solutions. Let's build a better future! 🌐🤝</h3>
