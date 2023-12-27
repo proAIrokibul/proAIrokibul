@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm I'm Rokibul Hasan</h1>
 <h3 align="center">AI & ML Developer | Dedicated to ethical AI | Bridging the gap between technology and humanity | Crafting responsible and impactful machine learning solutions. Let's build a better future! 🌐🤝</h3>
+- 🚀 Curiosity: I'm perpetually intrigued by the world around me.
+- 🖥 Interests: Computer systems & programming languages & LLM and AI agents. I love building complex things, unfortunately, too much math often makes me sleepy. AI is definately the future, but the infrastructure is what it relies on. It's an honor if I can be a bootloader of it.
+- 😄 Motto: I know nothing about the world and I'm quite stupid, but will keep learning and sharing in the public. The brave new world is never boring.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proairokibul&label=Profile%20views&color=0e75b6&style=flat" alt="proairokibul" /> </p>
 
@@ -18,8 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=proairokibul&show_icons=true&locale=en" alt="proairokibul" /></p>
 
 
-- 🚀 Curiosity: I'm perpetually intrigued by the world around me.
-- 🖥 Interests: Computer systems & programming languages & LLM and AI agents. I love building complex things, unfortunately, too much math often makes me sleepy. AI is definately the future, but the infrastructure is what it relies on. It's an honor if I can be a bootloader of it.
-- 😄 Motto: I know nothing about the world and I'm quite stupid, but will keep learning and sharing in the public. The brave new world is never boring.
+
 
 
